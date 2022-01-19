@@ -1,1 +1,1 @@
-main.js
+child1.js
